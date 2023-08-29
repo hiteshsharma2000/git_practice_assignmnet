@@ -15,5 +15,5 @@
             if (flag == true)
                 alert(n + " is prime");
             else
-                alert(n + " is prime");
+                alert(n + " is not prime");
         }
